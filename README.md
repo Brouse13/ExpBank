@@ -1,5 +1,5 @@
 # ExpBank
-Bored about losing all wout XP on death, this plugins give you the possibility of save your XP on a bank based on signs and commands, it also provides you the chance of changing the DataSaver from .yml to MySql and give all administrators the change of giving or removing XP from other offline players.
+Bored about losing all your XP on death, this plugins give you the possibility of save your XP on a bank based on signs and commands, it also provides you the chance of changing the DataSaver from .yml to MySql and give all administrators the change of giving or removing XP from other offline players.
 
 ## Command:
 The plugin main command it's ***/expbank*** but it also comes with two aliases: ***/eb***  and ***/ebank***
