@@ -4,20 +4,20 @@ Bored about losing all your XP on death, this plugins give you the possibility o
 ## Command:
 The plugin main command it's ***/expbank*** but it also comes with two aliases: ***/eb***  and ***/ebank***
 
-/eb info:
-   **Description**: This command allow all the players to get the information about the plugin
+**/eb info:**
+   This command allow all the players to get the information about the plugin
    
-/eb remove <player> <amount>:
-   **Description**: This command allow the admins of the server to remove XP to othe players
+**/eb remove <player> <amount>:**
+   This command allow the admins of the server to remove XP to othe players
   
-/eb give <player> <amount>:
-   **Description**: This command allow the admins of the server to give XP to othe players
+**/eb give <player> <amount>:**
+   This command allow the admins of the server to give XP to othe players
   
-/eb reload:
-   **Description**: This command allow the admins of the server to reload all the messages
+**/eb reload:**
+   This command allow the admins of the server to reload all the messages
    
-/eb balance:
-   **Description**: This command allow all the playersto get their balance
+**/eb balance:**
+   This command allow all the playersto get their balance
   
 ## Permission: 
 The plugin, contains the following permission:
