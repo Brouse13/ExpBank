@@ -1,0 +1,31 @@
+messages:
+  prefix: "&a[&bExpBank&a] "
+  reload_config: "All files were reloaded"
+  only_players: "&cThis command is only available to players"
+  permission_denied: "&cYou don't have permission to perform this action"
+  sign_created: "&aSign created successfully"
+  sign_removed: "&aSign removed successfully"
+  sign_invalid: "&cInvalid sign type"
+  load_duplicate: "&cTrying to load a duplicate sign"
+  exp_withdraw: "&aHow much xp do you want to withdraw?"
+  exp_deposit: "&aHow much xp do you want to deposit?"
+  deposit_success: "&aYou have deposit &6{0} &axp levels successfully"
+  withdraw_success: "&aYou have withdrawed &6{0} &axp levels successfully"
+  not_enough_exp: "&cSorry but you don't have &6{0} &cxp levels"
+  not_number: "&cDo you think &6{0} &cit's a number?"
+  transaction_canceled: "&cYou haven't typed any number"
+  exp_given_to: "&aYou have successfully given &6{0} &aexp to &6{1}"
+  exp_removed_to: "&aYou have successfully removed &6{0} &aexp to &6{1}"
+  account_created: "&aYour account has been successfully created"
+  account_renamed: "&aYour name has been updated"
+  account_balance: "Your balance is: {0}"
+  player_not_exist: "Player {0} doesn't exist or hasn't played before"
+  commands_description:
+    info: "Shows info about the plugin"
+    give: "Insert experience into a player account"
+    balance: "Shows your account balance"
+    remove: "Remove experience from a player account"
+    reload: "Reload plugin configuration"
+
+
+

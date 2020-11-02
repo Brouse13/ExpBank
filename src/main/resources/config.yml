@@ -1,0 +1,9 @@
+config:
+  mysql:
+    enabled: false
+    settings:
+      host: localhost
+      database: expbank
+      port: 3306
+      username: root
+      password: ''

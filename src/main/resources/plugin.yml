@@ -1,0 +1,24 @@
+main: brouse13.expbank.ExpBank
+name: ExpBank
+api-version: 1.14
+author: Brouse_13
+version: 1.1
+commands:
+  expbank:
+    aliases: [eb, ebank]
+    description: Main command
+permission:
+  expbank.admin.*:
+    default: op
+  expbank.admin.create:
+    default: op
+  expbank.admin.remove:
+    default: op
+  expbank.admin.withdraw:
+    default: op
+  expbank.admin.relolad:
+    default: op
+  expbank.admin.give:
+    default: op
+  expbank.sign.use:
+    default: true
